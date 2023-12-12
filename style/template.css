@@ -5034,7 +5034,8 @@ w3-codeline {
 }
 
 .herosection {
-    background-image: url('/background-3.gif' ), url('/');
+    background-image: url('/background-3.gif'![Alt Text](background-3.gif)
+ ), url('/');
     
     background-repeat: repeat, no-repeat;
     background-position: 100% 200%, center center
